@@ -1,0 +1,20 @@
+<resources>
+    <string name="app_name">Quiz App</string>
+    <string name="falseString">False</string>
+    <string name="trueString">True</string>
+    <string name="Question1">Canada is the largest country in the world by surface area</string>
+    <string name="Question2">The national animal of Canada is the beaver</string>
+    <string name="Question3">Newfoundland and Labrador is easternmost province in Canada</string>
+    <string name="Question4">Saskatchewan is one of the Prairie Provinces</string>
+    <string name="Question5">Ottawa is the capital city of Canada</string>
+    <string name="Question6">Canada has six timezones</string>
+    <string name="Question7">Toronto is the capital of Quebec</string>
+    <string name="Question8">Canada has 50 states</string>
+    <string name="Question9">Canada became a country in 1900</string>
+    <string name="Question10">Canada has one official language</string>
+    <string name="CorrectAnswer">Your answer is correct</string>
+    <string name="IncorrectAnswer">Your answer is incorrect</string>
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="get_the_average">Get The Average</string>
+    <string name="reset_the_saved_result">Reset The Saved Result</string>
+</resources>

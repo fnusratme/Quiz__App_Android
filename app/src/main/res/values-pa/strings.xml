@@ -1,0 +1,20 @@
+<resources>
+    <string name="app_name">কুইজ অ্যাপ</string>
+    <string name="falseString">ভুল</string>
+    <string name="trueString">সঠিক</string>
+    <string name="Question1">ভূপৃষ্ঠের দিক থেকে কানাডা বিশ্বের বৃহত্তম দেশ</string>
+    <string name="Question2">কানাডার জাতীয় প্রাণী হল বীভার</string>
+    <string name="Question3">নিউফাউন্ডল্যান্ড এবং ল্যাব্রাডর কানাডার পূর্বতম প্রদেশ</string>
+    <string name="Question4">সাসকাচোয়ান প্রেইরি প্রদেশগুলির মধ্যে একটি</string>
+    <string name="Question5">অটোয়া কানাডার রাজধানী</string>
+    <string name="Question6">কানাডার ছয়টি টাইমজোন আছে</string>
+    <string name="Question7">টরন্টো অন্টারিওর রাজধানী</string>
+    <string name="Question8">কানাডার 50টি রাজ্য রয়েছে</string>
+    <string name="Question9">কানাডা 1900 সালে একটি দেশে পরিণত হয়</string>
+    <string name="Question10">কানাডার অফিসিয়াল ভাষা একটি</string>
+    <string name="CorrectAnswer">আপনার উত্তর হল</string>
+    <string name="IncorrectAnswer">আপনার উত্তর ভুল</string>
+    <string name="hello_blank_fragment">ফাঁকা টুকরা</string>
+    <string name="get_the_average">গড়</string>
+    <string name="reset_the_saved_result">সংরক্ষিত ফলাফল পুনরায় সেট করুন</string>
+</resources>
